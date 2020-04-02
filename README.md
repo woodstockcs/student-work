@@ -1,5 +1,5 @@
 # aframe animation scenes
-(coming soon!)
+- CeliaB: [pyramid and staff](https://codehs.com/editor/html/456751/1722215/index.html)
 
 # sort videos
 - LukeB: [Insertion Sort with Colored Pencils](https://youtu.be/bhjNLhmkcIg)
