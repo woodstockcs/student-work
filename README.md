@@ -1,5 +1,8 @@
 # aframe animation scenes
-- CeliaB: [pyramid and staff](https://codehs.com/editor/html/456751/1722215/index.html)
+- [CeliaB](https://codehs.com/editor/html/456751/1722215/index.html) 👈WOW
+- [HayleyM](https://codehs.com/editor/html/456751/1686458/index.html)
+- [SamL](https://codehs.com/editor/html/456751/1686445/index.html)
+- [EvanJ](https://codehs.com/editor/html/456751/1686455/index.html)
 
 # sort videos
 - LukeB: [Insertion Sort with Colored Pencils](https://youtu.be/bhjNLhmkcIg)
