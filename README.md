@@ -1,10 +1,19 @@
 # vr ball pits
 - [CeliaB](https://codehs.com/editor/html/2518992/1722215/index.html)
 - [AllisonB](https://codehs.com/editor/html/2518966/1722214/index.html)
+- [AbeKO](https://codehs.com/editor/html/2519060/1657336/index.html)
+- [SamL](https://codehs.com/editor/html/2516720/1686445/index.html)
 
 # aframe animation scenes
-- [AllisonB](https://codehs.com/editor/html/456751/1722214/index.html) 👈WOW
-- [CeliaB](https://codehs.com/editor/html/456751/1722215/index.html) 👈WOW
+- [LouisM](https://codehs.com/editor/html/456751/1686449/index.html)
+- [WilburA](https://codehs.com/editor/html/456751/1686459/index.html)
+- [DevinZ](https://codehs.com/editor/html/456751/1657334/index.html)
+- [MorganM](https://codehs.com/editor/html/456751/1657328/index.html)
+- [AidanM](https://codehs.com/editor/html/456751/1657338/index.html)
+- [AbeKO](https://codehs.com/editor/html/456751/1657336/index.html)
+- [HenryG](https://codehs.com/editor/html/456751/1657329/index.html)
+- [AllisonB](https://codehs.com/editor/html/456751/1722214/index.html)
+- [CeliaB](https://codehs.com/editor/html/456751/1722215/index.html)
 - [HayleyM](https://codehs.com/editor/html/456751/1686458/index.html)
 - [SamL](https://codehs.com/editor/html/456751/1686445/index.html)
 - [EvanJ](https://codehs.com/editor/html/456751/1686455/index.html)
