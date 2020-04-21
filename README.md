@@ -3,8 +3,10 @@
 - [AllisonB](https://codehs.com/editor/html/2518966/1722214/index.html)
 - [AbeKO](https://codehs.com/editor/html/2519060/1657336/index.html)
 - [SamL](https://codehs.com/editor/html/2516720/1686445/index.html)
+- [RyanR](https://codehs.com/editor/html/2549113/1657332/index.html)
 
 # aframe animation scenes
+- [RyanR](https://codehs.com/editor/html/456751/1657332/index.html)
 - [LouisM](https://codehs.com/editor/html/456751/1686449/index.html)
 - [WilburA](https://codehs.com/editor/html/456751/1686459/index.html)
 - [DevinZ](https://codehs.com/editor/html/456751/1657334/index.html)
