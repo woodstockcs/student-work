@@ -1,5 +1,20 @@
 # graphy theory
 
+# aframe grids
+- [hg](https://codehs.com/share/5ZTowSUEQqiNtbdCyag8)
+- [ako](https://codehs.com/share/ewEc6pOPRvGjX2pOUQnH) (move your gaze)
+- [mm](https://codehs.com/share/zRERnNMu3lnbHp9nLeCu) (move your gaze)
+- [rs](https://codehs.com/share/U92QFgj5ijAdjNDN3w5y) (walk into the pyramid)
+- [jc](https://codehs.com/share/jdsG8CLfH2ppsXLw3AY1)
+- [hm](https://codehs.com/share/3f1WwM5ThdmvPiE22UJ5)
+- [sl](https://codehs.com/share/dK6R2tHJkkVAWPmsFzmd) (click on the big sphere)
+- [tb](https://codehs.com/share/8wsxuehDQmbAdmKDYokr)
+- [ej](https://codehs.com/share/VowMyLlhsI1jEEV6uQTQ)
+- [ab](https://codehs.com/share/zjXHQuwwsWmAUVY6knFY)
+
+# vr cool
+- [cb](https://codehs.com/share/vOItR3PtDDasaNQeZ1CS) Plinko Game (instructions on the screen)
+
 # vr ball pits
 - [CeliaB](https://codehs.com/editor/html/2518992/1722215/index.html)
 - [AllisonB](https://codehs.com/editor/html/2518966/1722214/index.html)
