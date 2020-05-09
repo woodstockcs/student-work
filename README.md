@@ -1,5 +1,3 @@
-# graphy theory
-
 # aframe grids
 - [hg](https://codehs.com/share/5ZTowSUEQqiNtbdCyag8)
 - [ako](https://codehs.com/share/ewEc6pOPRvGjX2pOUQnH) (move your gaze)
