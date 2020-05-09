@@ -9,6 +9,10 @@
 - [tb](https://codehs.com/share/8wsxuehDQmbAdmKDYokr)
 - [ej](https://codehs.com/share/VowMyLlhsI1jEEV6uQTQ)
 - [ab](https://codehs.com/share/zjXHQuwwsWmAUVY6knFY)
+- [dz](https://codehs.com/editor/html/2582089/1657334/index.html) (walk backwards to see the whole thing)
+- [rr](https://codehs.com/editor/html/2588003/1657332/index.html)
+- [am](https://codehs.com/editor/html/2578548/1657338/index.html)
+- [nh](https://codehs.com/editor/html/2584590/1657333/index.html)
 
 # vr cool
 - [cb](https://codehs.com/share/vOItR3PtDDasaNQeZ1CS) Plinko Game (instructions on the screen)
