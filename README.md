@@ -14,6 +14,7 @@
 - [am](https://codehs.com/editor/html/2578548/1657338/index.html)
 - [nh](https://codehs.com/editor/html/2584590/1657333/index.html)
 - [os](https://codehs.com/abacus/share/mAcG1LYzf1njKzKSvgAK) (turn around and click on the door)
+- [er](https://codehs.com/abacus/share/New_Sandbox_Program_AVxIql)
 
 # vr cool
 - [cb](https://codehs.com/share/vOItR3PtDDasaNQeZ1CS) Plinko Game (instructions on the screen)
