@@ -11,6 +11,9 @@
 [AB](https://www.youtube.com/watch?v=yIZc4H1AH1I&feature=youtu.be)
 [CB](https://www.youtube.com/watch?v=miUEeoLeTYA&feature=youtu.be)
 
+- Python
+[IC](https://drive.google.com/file/d/1hLPxT8hFbnhw3qQmFZ8qTdxpsxDgL1YM/view?usp=sharing)(how limit the number of turns in an infinite game)
+
 # aframe grids
 - [hg](https://codehs.com/share/5ZTowSUEQqiNtbdCyag8)
 - [ako](https://codehs.com/share/ewEc6pOPRvGjX2pOUQnH) (move your gaze)
