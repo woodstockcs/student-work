@@ -2,17 +2,17 @@
 - NateS: [evolution timeline](https://editor.p5js.org/22SattNa@wcsu.net/full/kwSohC4pB)
 
 # walkthru videos
-- CSAwesome 4.4.2
-[NB](https://drive.google.com/file/d/1wTBFQDgMQo_TSMvXOjTujUmuBkJgWQLZ/view)
-[NM](https://www.youtube.com/watch?v=Rd64mv7Xg_k&feature=youtu.be)
-[WN](https://www.youtube.com/watch?v=4HxwcuBdFwc&feature=youtu.be)
+## CSAwesome 4.4.2
+- [NB](https://drive.google.com/file/d/1wTBFQDgMQo_TSMvXOjTujUmuBkJgWQLZ/view)
+- [NM](https://www.youtube.com/watch?v=Rd64mv7Xg_k&feature=youtu.be)
+- [WN](https://www.youtube.com/watch?v=4HxwcuBdFwc&feature=youtu.be)
 
-- CSAwesome 4.4.3
-[AB](https://www.youtube.com/watch?v=yIZc4H1AH1I&feature=youtu.be)
-[CB](https://www.youtube.com/watch?v=miUEeoLeTYA&feature=youtu.be)
+## CSAwesome 4.4.3
+- [AB](https://www.youtube.com/watch?v=yIZc4H1AH1I&feature=youtu.be)
+- [CB](https://www.youtube.com/watch?v=miUEeoLeTYA&feature=youtu.be)
 
-- Python
-[IC](https://drive.google.com/file/d/1hLPxT8hFbnhw3qQmFZ8qTdxpsxDgL1YM/view?usp=sharing)(how limit the number of turns in an infinite game)
+## Python
+- [IC](https://drive.google.com/file/d/1hLPxT8hFbnhw3qQmFZ8qTdxpsxDgL1YM/view?usp=sharing)(how limit the number of turns in an infinite game)
 
 # aframe grids
 - [hg](https://codehs.com/share/5ZTowSUEQqiNtbdCyag8)
