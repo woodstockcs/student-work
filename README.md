@@ -11,6 +11,9 @@
 - [AB](https://www.youtube.com/watch?v=yIZc4H1AH1I&feature=youtu.be)
 - [CB](https://www.youtube.com/watch?v=miUEeoLeTYA&feature=youtu.be)
 
+## Common Errors
+- [avoiding infinite while loops](https://youtu.be/BZhBDsmRq4U) by CarolynL
+
 ## Python
 - [IC](https://drive.google.com/file/d/1hLPxT8hFbnhw3qQmFZ8qTdxpsxDgL1YM/view?usp=sharing)(how limit the number of turns in an infinite game)
 
