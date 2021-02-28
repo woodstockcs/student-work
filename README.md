@@ -18,6 +18,11 @@
 ## Python
 - [IC](https://drive.google.com/file/d/1hLPxT8hFbnhw3qQmFZ8qTdxpsxDgL1YM/view?usp=sharing)(how limit the number of turns in an infinite game)
 
+# LegoAds
+- [LK](https://editor.p5js.org/22kowali/sketches/B-QoTsjvQ)
+- [MA](https://editor.p5js.org/24abrama/sketches/ruBDPT4l4)
+- [GP](https://editor.p5js.org/24picogr/sketches/tbm1JxiEY)
+
 # aframe grids
 - [hg](https://codehs.com/share/5ZTowSUEQqiNtbdCyag8)
 - [ako](https://codehs.com/share/ewEc6pOPRvGjX2pOUQnH) (move your gaze)
