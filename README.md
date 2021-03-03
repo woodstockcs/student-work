@@ -1,5 +1,6 @@
 # misc
 - NateS: [evolution timeline](https://editor.p5js.org/22SattNa@wcsu.net/full/kwSohC4pB)
+- memes [here](https://docs.google.com/presentation/d/1Pao96MuDSH8_V0rOnxUuu72U1hlWOhXRMiMBzVeoscU/edit?usp=sharing)
 
 # walkthru videos
 
