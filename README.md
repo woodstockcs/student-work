@@ -2,6 +2,10 @@
 - NateS: [evolution timeline](https://editor.p5js.org/22SattNa@wcsu.net/full/kwSohC4pB)
 
 # walkthru videos
+
+## codingbat
+- [here](https://github.com/woodstockcs/codingbat-walkthrus/blob/master/README.md)
+
 ## CSAwesome 4.4.2
 - [NB](https://drive.google.com/file/d/1wTBFQDgMQo_TSMvXOjTujUmuBkJgWQLZ/view)
 - [NM](https://www.youtube.com/watch?v=Rd64mv7Xg_k&feature=youtu.be)
@@ -18,6 +22,12 @@
 ## Python
 - [IC](https://drive.google.com/file/d/1hLPxT8hFbnhw3qQmFZ8qTdxpsxDgL1YM/view?usp=sharing)(how limit the number of turns in an infinite game)
 
+## Google Sheets
+- [IC](https://youtu.be/QGom0fboLJ4)
+- [OS](https://youtu.be/NaL6DfR5hUs)
+- [AT](https://youtu.be/nIL9T3BhnmM)
+- SL: [part1](https://youtu.be/bke1wnkZHmg) [part2](https://youtu.be/pqA9ahocXeI) [part3](https://youtu.be/jZfeodjtSLQ)
+ 
 # LegoAds
 - [LK](https://editor.p5js.org/22kowali/sketches/B-QoTsjvQ)
 - [MA](https://editor.p5js.org/24abrama/sketches/ruBDPT4l4)
