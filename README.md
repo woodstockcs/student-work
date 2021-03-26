@@ -2,6 +2,15 @@
 - NateS: [evolution timeline](https://editor.p5js.org/22SattNa@wcsu.net/full/kwSohC4pB)
 - memes [here](https://docs.google.com/presentation/d/1Pao96MuDSH8_V0rOnxUuu72U1hlWOhXRMiMBzVeoscU/edit?usp=sharing)
 - NerdLab [here](https://sites.google.com/wcsu.net/nerdlab/)
+- album covers [slides](https://docs.google.com/presentation/d/1lgle0CQIvuXNWldxcjt_eP_uCOw8SEy0Wkd0mF9ZCqw/edit?usp=sharing)
+
+# bouncing dvd logos
+- [gp](https://editor.p5js.org/24picogr/present/u9QUUA0zC)
+- [lk]
+- [ma]
+- [kf]
+- [gc](https://editor.p5js.org/23garcjo/present/4x3ggSdJG)
+
 
 # walkthru videos
 
