@@ -5,6 +5,15 @@
 - album covers [slides](https://docs.google.com/presentation/d/1lgle0CQIvuXNWldxcjt_eP_uCOw8SEy0Wkd0mF9ZCqw/edit?usp=sharing)
 - rubiks pixel art [ew](https://editor.p5js.org/21warret/sketches/w9muPQBC1)
 - the any key(https://theanykey.edublogs.org/)
+- arduino speed sign [rm](https://create.arduino.cc/editor/remymalik/cd3e1369-9734-4cab-a7ad-7dfff24fc874/preview)
+- Ukraine flag behind stained glass [ns](https://academy.cs.cmu.edu/sharing/slateBlueFish4891)
+- scrolling quiz [wo](https://academy.cs.cmu.edu/sharing/burlyWoodCamel3065)
+- tictactow [cf](https://academy.cs.cmu.edu/sharing/goldenrodPuppy3478)
+- applepay calculator [ed](https://replit.com/@EthanDean2/GenerousWastefulAssembly#main.py)
+- chatbot [ca](https://replit.com/@CatherineA/Summitive2#main.py)
+- calculator [rs](https://replit.com/@RowanSmail/Calculator-Program#main.py)
+- 
+
 
 # bouncing dvd logos
 - [gp](https://editor.p5js.org/24picogr/present/u9QUUA0zC)
