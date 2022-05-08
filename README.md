@@ -12,7 +12,7 @@
 - applepay calculator [ed](https://replit.com/@EthanDean2/GenerousWastefulAssembly#main.py)
 - chatbot [ca](https://replit.com/@CatherineA/Summitive2#main.py)
 - calculator [rs](https://replit.com/@RowanSmail/Calculator-Program#main.py)
-- 
+- mitosis simulator [wn](https://editor.p5js.org/22NapiWy@wcsu.net/sketches/RjJCaawkK)
 
 
 # bouncing dvd logos
