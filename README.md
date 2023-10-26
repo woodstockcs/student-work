@@ -100,10 +100,11 @@
 - [EvanJ](https://codehs.com/editor/html/456751/1686455/index.html)
 
 # choose your own adventure
-- baseball ([TB](https://portfolio--tbissaillon.repl.co/start.html))
-- haunted house ([IH](https://replit.com/@isabellerhiller/Choose-Your-Own-Adventure-Hill-House-Mission))
 - survival ([ED](https://replit.com/@EmilyDean/EADeanCYOAStory#index.html))
+- haunted house ([IH](https://replit.com/@isabellerhiller/Choose-Your-Own-Adventure-Hill-House-Mission))
 - harry potter ([DS](https://replit.com/@DanielSmith24/DannyCYOA?v=1))
+- baseball ([TB](https://portfolio--tbissaillon.repl.co/start.html))
+- fantasy ([EP](https://cyoa-story.emiliapaulk.repl.co/index.html))
   
 # sort videos
 - LukeB: [Insertion Sort with Colored Pencils](https://youtu.be/bhjNLhmkcIg)
