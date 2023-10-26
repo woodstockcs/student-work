@@ -101,9 +101,9 @@
 
 # choose your own adventure
 - baseball ([TB](https://portfolio--tbissaillon.repl.co/start.html))
-- haunted house ([IH](https://replit.com/@isabellerhiller/Choose-Your-Own-Adventure-Hill-House-Mission)]
-- survival ([ED](https://replit.com/@EmilyDean/EADeanCYOAStory#index.html)
-- harry potter ([DS](https://replit.com/@DanielSmith24/DannyCYOA?v=1)
+- haunted house ([IH](https://replit.com/@isabellerhiller/Choose-Your-Own-Adventure-Hill-House-Mission))
+- survival ([ED](https://replit.com/@EmilyDean/EADeanCYOAStory#index.html))
+- harry potter ([DS](https://replit.com/@DanielSmith24/DannyCYOA?v=1))
   
 # sort videos
 - LukeB: [Insertion Sort with Colored Pencils](https://youtu.be/bhjNLhmkcIg)
