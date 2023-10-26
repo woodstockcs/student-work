@@ -99,6 +99,11 @@
 - [SamL](https://codehs.com/editor/html/456751/1686445/index.html)
 - [EvanJ](https://codehs.com/editor/html/456751/1686455/index.html)
 
+# choose your own adventure
+- baseball ([TB]())
+- 
+
+  
 # sort videos
 - LukeB: [Insertion Sort with Colored Pencils](https://youtu.be/bhjNLhmkcIg)
 - MaggieR: [Insertion Sort with Anne of Green Gables](https://www.youtube.com/watch?v=I0QYrDYmz3k)
