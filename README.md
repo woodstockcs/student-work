@@ -2,7 +2,7 @@
 - NateS: [evolution timeline](https://editor.p5js.org/22SattNa@wcsu.net/full/kwSohC4pB)
 - memes [here](https://docs.google.com/presentation/d/1Pao96MuDSH8_V0rOnxUuu72U1hlWOhXRMiMBzVeoscU/edit?usp=sharing)
 - NerdLab [here](https://sites.google.com/wcsu.net/nerdlab/)
-- album covers [slides](https://docs.google.com/presentation/d/1lgle0CQIvuXNWldxcjt_eP_uCOw8SEy0Wkd0mF9ZCqw/edit?usp=sharing)
+- album covers [slides](https://docs.google.com/presentation/d/1gkwbrO2itbsRAt5bHS2CxLLpZ7hgEsDrGBSH4mv7r1g/edit#slide=id.p)
 - rubiks pixel art [ew](https://editor.p5js.org/21warret/sketches/w9muPQBC1)
 - the any key(https://theanykey.edublogs.org/)
 - arduino speed sign [rm](https://create.arduino.cc/editor/remymalik/cd3e1369-9734-4cab-a7ad-7dfff24fc874/preview)
